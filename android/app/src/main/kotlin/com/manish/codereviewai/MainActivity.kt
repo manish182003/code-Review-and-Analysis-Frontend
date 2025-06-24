@@ -1,4 +1,4 @@
-package com.example.code_review_and_analysis
+package com.manish.codereviewai
 
 import io.flutter.embedding.android.FlutterActivity
 

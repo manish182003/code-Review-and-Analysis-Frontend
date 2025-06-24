@@ -261,6 +261,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           return Align(
                             alignment: Alignment.topRight,
                             child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.end,
                               children: [
                                 if (chat.isImageUploaded == true &&
                                     chat.filePath != null &&
