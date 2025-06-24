@@ -106,9 +106,9 @@ Welcome to the frontend of the **Code Review and Analysis** project! This Flutte
 3. **Set Up Environment Variables**:
    Create a `.env` file in the root directory:
    ```
-   API_BASE_URL=http://localhost:5000
+   API_BASE_URL=http://localhost:3000
    ```
-   Replace `localhost:5000` with your backend API URL.
+   Replace `localhost:3000` with your backend API URL.
 
 4. **Configure Permissions**:
    - For Android, ensure `AndroidManifest.xml` includes:
@@ -220,7 +220,7 @@ Licensed under the [ISC License](LICENSE).
 
 ## :envelope: Contact
 
-For questions or feedback, open an issue in the repository or email [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, open an issue in the repository or email [manishjoshi182003@gmail.com](mailto:manishjoshi182003@gmail.com).
 
 ## :star: Contributing
 
