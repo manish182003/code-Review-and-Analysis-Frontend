@@ -220,7 +220,7 @@ Licensed under the [ISC License](LICENSE).
 
 ## :envelope: Contact
 
-For questions or feedback, open an issue in the repository or email [your-email@example.com](mailto:manishjoshi182003@gmail.com).
+For questions or feedback, open an issue in the repository or email [manishjoshi182003@gmail.com](mailto:manishjoshi182003@gmail.com).
 
 ## :star: Contributing
 
