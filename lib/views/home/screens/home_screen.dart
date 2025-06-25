@@ -238,7 +238,10 @@ class _HomeScreenState extends State<HomeScreen> {
                             return Container(
                               constraints: BoxConstraints(maxWidth: 80.w),
                               padding: EdgeInsets.all(12),
-                              margin: EdgeInsets.symmetric(horizontal: 5.w),
+                              margin: EdgeInsets.symmetric(
+                                horizontal: 5.w,
+                                vertical: 2.h,
+                              ),
                               decoration: BoxDecoration(
                                 color: AppColor.responsecontainerColor,
                                 borderRadius: BorderRadius.circular(20),
